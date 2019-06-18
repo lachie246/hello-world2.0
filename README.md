@@ -1,7 +1,4 @@
 # hello-world2.0
-Take 2
-
-fdxgfchgjbdskbvlab
-kbakdjbkjgba
-nng
-nggnlsnag;ndg;jsnv
+I am a horse
+I am a Man
+I am a Horseman
